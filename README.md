@@ -1,4 +1,5 @@
-# [whatthefuck.is](https://whatthefuck.is/)
+# [whatthefork.is](https://whatthefork.is/)
+A fork of Dan's glossary.
 
 An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 
