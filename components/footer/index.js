@@ -19,8 +19,8 @@ const Footer = ({ slug }) => {
       </footer>
       <footer className={styles.footer}>
         <div />
-        <Link href={`https://whatthefork.is/${slug ?? ''}`} external gray>
-          curse-free mirror
+        <Link href={`https://whatthefuck.is/${slug ?? ''}`} external gray>
+          curse mirror
         </Link>
         <div />
       </footer>
