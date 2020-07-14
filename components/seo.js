@@ -1,7 +1,7 @@
 import NextHead from 'next/head'
 
 const Head = ({
-  title = 'whatthefuck.is',
+  title = 'whattheforck.is',
   description = 'Dan’s JavaScript Glossary',
   image,
   children
