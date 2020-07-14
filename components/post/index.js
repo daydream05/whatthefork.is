@@ -38,11 +38,12 @@ const Post = ({
       <Head>
         {hidden && <meta name="robots" content="noindex" />}
         {date && <meta name="date" content={date} />}
+        {slug && <link rel="canonical" href={`https://whatthefuck.is/${slug}`} />}
       </Head>
 
       <article
         dangerouslySetInnerHTML={{
-          __html: `${html}`
+          __html: `${html}`,
         }}
       />
 
