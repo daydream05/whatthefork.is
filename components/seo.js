@@ -21,14 +21,14 @@ const Head = ({
       <meta httpEquiv="Content-Language" content="en" />
 
       <meta name="twitter:site" content="@dan_abramov" />
-      <meta name="apple-mobile-web-app-title" content="whatthefuck.is" />
+      <meta name="apple-mobile-web-app-title" content="whatthefork.is" />
       <meta name="author" content="Dan Abramov" />
 
       {/* RSS feed */}
       <link
         rel="alternate"
         type="application/rss+xml"
-        title="RSS Feed for whatthefuck.is"
+        title="RSS Feed for whatthefork.is"
         href="/feed.xml"
       />
 
