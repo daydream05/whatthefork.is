@@ -14,13 +14,13 @@ const Error = ({ status }) => {
       {status === 404 ? (
         <>
           <h1>404</h1>
-          <p>Someone fucked up.</p>
+          <p>Someone forked up.</p>
           <Link underline href="/">Go Home</Link>
         </>
       ) : (
         <section className={styles.section}>
           <span>{status || 'пиздец'}</span>
-          <p>For fuck’s sake.</p>
+          <p>For fork’s sake.</p>
         </section>
       )}
     </Page>
